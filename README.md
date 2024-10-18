@@ -8,6 +8,7 @@ Steps To Follow:
 - Go to su-fsd
     - npm install
     - npm run dev
+    - go to https://localhost:5173
 
 
 
